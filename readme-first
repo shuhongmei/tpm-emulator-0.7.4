@@ -1,0 +1,7 @@
+install step：
+1. #chmod +x build.sh
+2. #./build.sh
+3. #cd build
+4. #make
+5. #make install
+if you are lucky, the tpm-emulator will be installed success.
